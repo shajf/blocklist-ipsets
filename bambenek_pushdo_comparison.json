@@ -1,0 +1,92 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 534,
+		"common": 6
+	},
+	{
+		"name": "bambenek_suppobox",
+		"category": "malware",
+		"ips": 67,
+		"common": 6
+	},
+	{
+		"name": "coinbl_hosts",
+		"category": "organizations",
+		"ips": 5063,
+		"common": 6
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 5
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 622964367,
+		"common": 6
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34672201,
+		"common": 4
+	},
+	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 13292,
+		"common": 6
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 60358,
+		"common": 6
+	},
+	{
+		"name": "hphosts_fsa",
+		"category": "reputation",
+		"ips": 24764,
+		"common": 6
+	},
+	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 2474,
+		"common": 6
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 47303,
+		"common": 6
+	},
+	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 926,
+		"common": 6
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34648204,
+		"common": 4
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 4644,
+		"common": 6
+	}
+]

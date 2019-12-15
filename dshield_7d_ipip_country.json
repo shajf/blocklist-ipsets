@@ -1,0 +1,42 @@
+[
+	{
+		"code": "AU",
+		"value": 256
+	},
+	{
+		"code": "BG",
+		"value": 768
+	},
+	{
+		"code": "GB",
+		"value": 512
+	},
+	{
+		"code": "IT",
+		"value": 512
+	},
+	{
+		"code": "LV",
+		"value": 512
+	},
+	{
+		"code": "MD",
+		"value": 1024
+	},
+	{
+		"code": "NL",
+		"value": 5376
+	},
+	{
+		"code": "RO",
+		"value": 512
+	},
+	{
+		"code": "RU",
+		"value": 768
+	},
+	{
+		"code": "US",
+		"value": 1024
+	}
+]

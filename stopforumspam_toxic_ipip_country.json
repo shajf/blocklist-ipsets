@@ -1,0 +1,42 @@
+[
+	{
+		"code": "ANYCAST",
+		"value": 512
+	},
+	{
+		"code": "DE",
+		"value": 1040
+	},
+	{
+		"code": "FR",
+		"value": 16006
+	},
+	{
+		"code": "GB",
+		"value": 18176
+	},
+	{
+		"code": "NL",
+		"value": 378
+	},
+	{
+		"code": "PL",
+		"value": 512
+	},
+	{
+		"code": "RU",
+		"value": 2816
+	},
+	{
+		"code": "SG",
+		"value": 256
+	},
+	{
+		"code": "UA",
+		"value": 1792
+	},
+	{
+		"code": "US",
+		"value": 78139
+	}
+]
